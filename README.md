@@ -11,12 +11,12 @@
 
 **My life is a passion project:**
 
-- 🪂 Parachutist: 5,000 skydives — creator of [Mixed Vertical Piloting](https://raw.githubusercontent.com/dankswoops/dankswoops/main/Mixed%20Vertical%20Piloting.pdf)
-- 👨🏽‍💻 Dev: I can build anything solo, but I enjoy good company while in the IDE.
-- ⚡️ Building Zaphub — a Nostr social client with uncensorable speech and unstoppable payments.
-- 🫟 Still working on NostrKeyring, a cross-browser NIP-07 signing extension.
-- 🧠 Focused on freedom technology, privacy by design, and zero-knowledge architecture.
-- 🌐 Open-source contributor — if IP isn’t a problem, I push to public.
+- 🪂 Parachutist: 5,000 skydives - creator of [MVP](https://raw.githubusercontent.com/dankswoops/dankswoops/main/Mixed%20Vertical%20Piloting.pdf)
+- 👨🏽‍💻 Dev: I can build anything solo, but I enjoy good company while in the IDE
+- ⚡️ Building Zaphub: a Nostr social client with uncensorable speech and unstoppable payments
+- 🫟 Building NostrKeyring: a cross-browser NIP-07 signing extension
+- 🧠 Focus: freedom technology, privacy by design, and zero-knowledge architecture
+- 🌐 Open-source contributor: if IP isn’t a problem, I push to public
 
 
 #
