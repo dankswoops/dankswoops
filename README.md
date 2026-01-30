@@ -25,14 +25,14 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&theme=dark&layout=compact&langs_count=6&hide_border=true"
-    width="48%"
-    alt="Top Languages Compact"
+    src="https://raw.githubusercontent.com/dankswoops/dankswoops/main/creative.png"
+    height="160"
+    alt="Dank is creative"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=dankswoops&show_icons=true&theme=dark&hide_border=true"
-    width="48%"
-    alt="DankSwoops GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&theme=dark&layout=compact&langs_count=6&hide_border=true"
+    height="160"
+    alt="Top Languages Compact"
   />
 </p>
 
