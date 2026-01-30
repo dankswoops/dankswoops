@@ -30,8 +30,8 @@
     alt="Dank is creative"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&theme=dark&layout=compact&langs_count=6&hide_border=true&card_height=300"
-    height="300"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&theme=dark&layout=compact&langs_count=6&hide_border=true"
+    height="330"
     alt="Top Languages Compact"
   />
 </p>
