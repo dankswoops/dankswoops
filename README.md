@@ -40,23 +40,23 @@
 
 ● <!-- NORMAL (default - tallest) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&layout=normal&langs_count=6&hide_border=true&theme=dark"/>
+<img src=""/>
 
 <!-- COMPACT (fixed ~140px) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&layout=compact&langs_count=6&hide_border=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&layout=compact&theme=dark"/>
 
 <!-- DONUT -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&layout=donut&langs_count=6&hide_border=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&layout=donut&theme=dark"/>
 
 <!-- DONUT-VERTICAL (tall) -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&layout=donut-vertical&langs_count=6&hide_border=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&theme=dark&layout=donut-vertical&langs_count=6&hide_border=true"/>
 
 <!-- PIE -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&layout=pie&langs_count=6&hide_border=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&layout=pie&theme=dark"/>
 
 
 
