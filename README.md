@@ -26,12 +26,11 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/dankswoops/dankswoops/main/creative.png"
-    height="300"
+    height="200"
     alt="Dank is creative"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&theme=dark&layout=compact&langs_count=6&hide_border=true"
-    height="330"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&theme=dark&layout=donut-vertical&langs_count=6&hide_border=true"
     alt="Top Languages Compact"
   />
 </p>
