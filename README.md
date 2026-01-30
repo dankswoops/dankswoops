@@ -35,6 +35,31 @@
   />
 </p>
 
+
+
+● <!-- NORMAL (default - tallest) -->                                                                                                                           
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&layout=normal&langs_count=6&hide_border=true&theme=dark" />               
+                                                                                                                                                                
+  <!-- COMPACT (fixed ~140px) -->                                                                                                                               
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&layout=compact&langs_count=6&hide_border=true&theme=dark" />              
+                                                                                                                                                                
+  <!-- DONUT -->                                                                                                                                                
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&layout=donut&langs_count=6&hide_border=true&theme=dark" />                
+                                                                                                                                                                
+  <!-- DONUT-VERTICAL (tall) -->                                                                                                                                
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&layout=donut-vertical&langs_count=6&hide_border=true&theme=dark" />       
+                                                                                                                                                                
+  <!-- PIE -->                                                                                                                                                  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&layout=pie&langs_count=6&hide_border=true&theme=dark" />   
+
+
+
+
+
+
+
+
+
 #
 
 <br />
