@@ -18,7 +18,6 @@
 - 🧠 Focus: freedom technology, privacy by design, and zero-knowledge architecture
 - 🌐 Open-source contributor: if IP isn’t a problem, I push to public
 
-
 #
 
 <br />
@@ -26,42 +25,14 @@
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/dankswoops/dankswoops/main/creative.png"
-    height="200"
+    height="215"
     alt="Dank is creative"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&theme=dark&layout=donut-vertical&langs_count=6&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&theme=dark&layout=donut&langs_count=6&hide_border=true"
     alt="Top Languages Compact"
   />
 </p>
-
-
-
-
----
-
-<!-- NORMAL (default - tallest) -->                                                                                                                           
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&theme=dark&layout=normal&langs_count=6&hide_border=true"/>                
-
-<!-- COMPACT (fixed ~140px) -->                                                                                                                               
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&theme=dark&layout=compact&langs_count=6&hide_border=true"/>               
-
-<!-- DONUT -->                                                                                                                                                
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&theme=dark&layout=donut&langs_count=6&hide_border=true"/>                 
-
-<!-- DONUT-VERTICAL (confirmed working) -->                                                                                                                   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&theme=dark&layout=donut-vertical&langs_count=6&hide_border=true"/>        
-
-<!-- PIE -->                                                                                                                                                  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dankswoops&theme=dark&layout=pie&langs_count=6&hide_border=true"/> 
-
-
----
-
-
-
-
-
 
 #
 
