@@ -12,9 +12,9 @@
 **My life is a passion project:**
 
 - 🪂 Parachutist: 5,000 skydives - creator of [MVP](https://raw.githubusercontent.com/dankswoops/dankswoops/main/Mixed%20Vertical%20Piloting.pdf)
-- 👨🏽‍💻 Dev: I can build anything solo, but I enjoy good company while in the IDE
+- 👨🏽‍💻 Dev: I could code before Ai, Stack Overflow is my new blockbuster card.
 - ⚡️ Building x: a Nostr social client with uncensorable speech and unstoppable payments
-- 🫟 Building NostrKeyring: a cross-browser NIP-07 signing extension
+- 🫟 Building NostrKeyring: a cross-browser nostr signing
 - 🧠 Focus: freedom technology, privacy by design, and zero-knowledge architecture
 - 🌐 Open-source contributor: if IP isn’t a problem, I push to public
 
